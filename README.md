@@ -1,2 +1,2 @@
 # CodeWars-8-kyu-Solutions
-Создано https://github.com/Ksevvi
+Created https://github.com/Ksevvi
